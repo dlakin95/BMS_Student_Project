@@ -1,0 +1,29 @@
+Protokó³ komunikacji: C-Bus
+System kontroli oœwietlenia: DALI, DSI, Dynet, KNX
+Czujniki: dymu, wykrycia przegotowania garnków, wykrycia podtopienia (zalewowe) , szkodliwych substancji, antyw³amaniowe, ¿ywotnoœci
+
+
+
+http://www.technicalguidelines.ubc.ca/Division_25/2017_Division_25_PDF/250500-2017_BMS.pdf
+
+S³owa kluczowe do wyszukiwania informacji o inteligentych domach:
+-BMS (Building Menagement System),
+-BAS (Building Automation System), 
+-BACNet (protokó³ komunikacji w inteligentych domach),
+-BIM (Building Information Model) https://link.springer.com/content/pdf/10.1007%2F978-3-642-36356-6_2.pdf
+
+
+Standardy komunikacyjne IEEE:
+- IEEE 802.15.4
+- IEEE 1901
+- IEEE 1905.1
+-IEEE 802.21
+- IEEE 802.11ac
+- IEEE 802.3at
+
+Protoko³y komunikacji:
+- BACNet,
+- X10,
+- ZigBee
+- LonTalk,
+
