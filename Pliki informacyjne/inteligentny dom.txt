@@ -1,5 +1,5 @@
 Protokó³ komunikacji: C-Bus
-System kontroli oœwietlenia: DALI, DSI, Dynet, KNX
+System kontroli oœwietlenia: DMX512 !!!
 Czujniki: dymu, wykrycia przegotowania garnków, wykrycia podtopienia (zalewowe) , szkodliwych substancji, antyw³amaniowe, ¿ywotnoœci
 
 
@@ -22,8 +22,26 @@ Standardy komunikacyjne IEEE:
 - IEEE 802.3at
 
 Protoko³y komunikacji:
-- BACNet,
+- BACNet,		
+Linki o Backnet :
+http://www.bacnet.org/Bibliography/HPAC-10-98.html
+http://www.bacnet.org/Bibliography/ES-7-96/ES-7-96.htm
+
 - X10,
 - ZigBee
 - LonTalk,
 
+
+!!!!!!!Direct Digital Controllers (DDC). VS PLC
+
+
+Ksi¹¿ka do dorwania:
+-	H. Merz, T. Hansemann, C. Hübner, J. Backer, V. Moser, L. Greefe, Building Automation:
+Communication systems with EIB/KNX, LON and BACnet (Signals and Communication
+Technology), Springer, 2009.
+
+Systemy zamkniête (opracowane przez firmy):
+ABB Ego-n +++
+
+
+Standard 135 do automatyki domów: 	https://www.ashrae.org/technical-resources/standards-and-guidelines/standards-addenda/standard-135-2016-bacnet-a-data-communication-protocol-for-building-automation-and-control-networks
